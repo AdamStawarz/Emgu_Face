@@ -240,3 +240,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Emgu/Faces/test444.bmp
+/Emgu/Faces/martyna.bmp
+/Emgu/Faces/laska.bmp
+/Emgu/Faces/adam.bmp
+/Emgu/Faces/7777.bmp
+/Emgu/Faces/3333.bmp
+/Emgu/Migrations
